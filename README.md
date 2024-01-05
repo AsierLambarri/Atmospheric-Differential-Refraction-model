@@ -7,5 +7,5 @@ The code is implemented such that the user can input, either via the Terminal or
 
 The outputs are: a .png image that represents the deviations and seeings at a few different angles and a .ecsv file (generated with astropy) containing 20 model evaluations between 0º and 80º (for all the wavelengths and atm cond. provided) that you can (re-)use to numerically model the Seeing and Diff. Refraction on you own projects: it is better to generate data once than to go back every now and then.
 
-The 'program' displays all the necesary information for its correct usage. It has three modes of use: one produces an example
+The 'program' displays all the necesary information for its correct usage when you run it.
 
