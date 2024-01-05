@@ -9,3 +9,17 @@ The outputs are: a .png image that represents the deviations and seeings at a fe
 
 The 'program' displays all the necesary information for its correct usage when you run it.
 
+**Dependencies:** Numpy, Astropy, Matplotlib and Smplotlib (optional, to make your plots look nicer).
+
+## Pretty plots
+
+Here are some plots generated with the program:
+
+1) Generated using the EXAMPLE mode provided in the program.
+![dispersion_ref450 0_combined](https://github.com/AsierLambarri/Atmospheric-Differential-Refraction-model/assets/109964584/dd44854e-e840-43a7-9673-ee0efc1c93f9)
+
+2) Generated using the FILE mode.
+![dispersion_ref450 0_combined](https://github.com/AsierLambarri/Atmospheric-Differential-Refraction-model/assets/109964584/f79d9a62-d6f0-4f9e-81df-cae5ed85174d)
+
+3) Generated using the MANUAL mode.
+![dispersion_ref450 0_200 0nm](https://github.com/AsierLambarri/Atmospheric-Differential-Refraction-model/assets/109964584/6650b95e-098e-4b33-bffe-ba3355dd8a6f)
